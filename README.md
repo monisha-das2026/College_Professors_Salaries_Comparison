@@ -1,1 +1,2 @@
 # College_Professors_Salaries_Comparison
+the Salaries dataset using in this project containing the 9 month academic salaries of college professors at a single institution in 2008-2009. It includes 393 objectives against 6 variables(rank,discipline,years of phd,years of services,sex,salary).The project is done by using R and you can easily visualize the graphical comparison of different scenarios. Here is attached the csv(comma separated value) dataset file  and the coding process that is used to perform the work. Happy Coding!!!!
